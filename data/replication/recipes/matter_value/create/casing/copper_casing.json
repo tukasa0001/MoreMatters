@@ -1,0 +1,24 @@
+{
+    "type": "replication:matter_value",
+    "input": {
+        "item": "create:copper_casing"
+    },
+    "matter": [
+        {
+            "type": "replication:metallic",
+            "value": 2
+        },
+        {
+            "type": "replication:earth",
+            "value": 8
+        },
+        {
+            "type": "replication:organic",
+            "value": 8
+        },
+        {
+            "type": "replication:precious",
+            "value": 2
+        }
+    ]
+}

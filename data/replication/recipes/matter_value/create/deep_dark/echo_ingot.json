@@ -1,0 +1,28 @@
+{
+    "type": "replication:matter_value",
+    "input": {
+        "item": "create_deep_dark:echo_ingot"
+    },
+    "matter": [
+        {
+            "type": "replication:metallic",
+            "value": 36
+        },
+        {
+            "type": "replication:nether",
+            "value": 72
+        },
+        {
+            "type": "replication:precious",
+            "value": 108
+        },
+        {
+            "type": "replication:quantum",
+            "value": 4
+        },
+        {
+            "type": "replication:living",
+            "value": 16
+        }
+    ]
+}

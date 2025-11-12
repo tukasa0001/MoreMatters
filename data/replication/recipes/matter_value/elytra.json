@@ -1,0 +1,28 @@
+{
+    "type": "replication:matter_value",
+    "input": {
+        "item": "minecraft:elytra"
+    },
+    "matter": [
+        {
+            "type": "replication:nether",
+            "value": 36
+        },
+        {
+            "type": "replication:organic",
+            "value": 52
+        },
+        {
+            "type": "replication:ender",
+            "value": 248
+        },
+        {
+            "type": "replication:quantum",
+            "value": 144
+        },
+        {
+            "type": "replication:living",
+            "value": 36
+        }
+    ]
+}

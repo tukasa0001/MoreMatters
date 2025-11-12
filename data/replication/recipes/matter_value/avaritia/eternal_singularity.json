@@ -1,0 +1,28 @@
+{
+    "type": "replication:matter_value",
+    "input": {
+        "item": "avaritia:eternal_singularity"
+    },
+    "matter": [
+        {
+            "type": "replication:metallic",
+            "value": 56000.0
+        },
+        {
+            "type": "replication:earth",
+            "value": 335000.0
+        },
+        {
+            "type": "replication:nether",
+            "value": 77000.0
+        },
+        {
+            "type": "replication:organic",
+            "value": 326250.0
+        },
+        {
+            "type": "replication:precious",
+            "value": 203250.0
+        }
+    ]
+}

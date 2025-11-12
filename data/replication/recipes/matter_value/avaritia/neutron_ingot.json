@@ -1,0 +1,12 @@
+{
+    "type": "replication:matter_value",
+    "input": {
+        "item": "avaritia:neutron_ingot"
+    },
+    "matter": [
+        {
+            "type": "replication:earth",
+            "value": 3000.0
+        }
+    ]
+}

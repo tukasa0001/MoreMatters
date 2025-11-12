@@ -1,0 +1,20 @@
+{
+    "type": "replication:matter_value",
+    "input": {
+        "item": "mekanism:basic_control_circuit"
+    },
+    "matter": [
+        {
+            "type": "replication:metallic",
+            "value": 9
+        },
+        {
+            "type": "replication:earth",
+            "value": 3.5
+        },
+        {
+            "type": "replication:precious",
+            "value": 6.5
+        }
+    ]
+}

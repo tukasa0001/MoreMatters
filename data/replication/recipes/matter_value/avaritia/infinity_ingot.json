@@ -1,0 +1,40 @@
+{
+    "type": "replication:matter_value",
+    "input": {
+        "item": "avaritia:infinity_ingot"
+    },
+    "matter": [
+        {
+            "type": "replication:metallic",
+            "value": 688000
+        },
+        {
+            "type": "replication:earth",
+            "value": 3685000
+        },
+        {
+            "type": "replication:nether",
+            "value": 848560
+        },
+        {
+            "type": "replication:organic",
+            "value": 3588750
+        },
+        {
+            "type": "replication:ender",
+            "value": 11000
+        },
+        {
+            "type": "replication:precious",
+            "value": 2254110
+        },
+        {
+            "type": "replication:quantum",
+            "value": 12920
+        },
+        {
+            "type": "replication:living",
+            "value": 11000
+        }
+    ]
+}

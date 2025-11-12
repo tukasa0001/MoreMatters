@@ -1,0 +1,24 @@
+{
+    "type": "replication:matter_value",
+    "input": {
+        "item": "mekanism:ingot_steel"
+    },
+    "matter": [
+        {
+            "type": "replication:metallic",
+            "value": 9
+        },
+        {
+            "type": "replication:earth",
+            "value": 0.5
+        },
+        {
+            "type": "replication:precious",
+            "value": 0.25
+        },
+        {
+            "type": "replication:organic",
+            "value": 0.25
+        }
+    ]
+}

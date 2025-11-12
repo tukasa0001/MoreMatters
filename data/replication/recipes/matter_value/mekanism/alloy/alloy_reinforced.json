@@ -1,0 +1,20 @@
+{
+    "type": "replication:matter_value",
+    "input": {
+        "item": "mekanism:alloy_reinforced"
+    },
+    "matter": [
+        {
+            "type": "replication:metallic",
+            "value": 9
+        },
+        {
+            "type": "replication:earth",
+            "value": 2
+        },
+        {
+            "type": "replication:precious",
+            "value": 11
+        }
+    ]
+}

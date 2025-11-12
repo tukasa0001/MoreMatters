@@ -1,7 +1,7 @@
 {
     "type": "replication:matter_value",
     "input": {
-        "item": "mekanism:ingot_steel"
+        "tag": "forge:ingots/steel"
     },
     "matter": [
         {

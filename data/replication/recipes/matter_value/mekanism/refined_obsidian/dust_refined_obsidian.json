@@ -1,7 +1,7 @@
 {
     "type": "replication:matter_value",
     "input": {
-        "item": "mekanism:dust_refined_obsidian"
+        "tag": "forge:dusts/refined_obsidian"
     },
     "matter": [
         {

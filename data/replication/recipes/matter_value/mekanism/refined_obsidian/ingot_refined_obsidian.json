@@ -1,7 +1,7 @@
 {
     "type": "replication:matter_value",
     "input": {
-        "item": "mekanism:ingot_refined_obsidian"
+        "tag": "forge:ingots/refined_obsidian"
     },
     "matter": [
         {

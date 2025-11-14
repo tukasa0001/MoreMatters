@@ -1,0 +1,20 @@
+{
+    "type": "replication:matter_value",
+    "input": {
+        "tag": "forge:dusts/osmium"
+    },
+    "matter": [
+        {
+            "type": "replication:metallic",
+            "value": 9
+        },
+        {
+            "type": "replication:earth",
+            "value": 3
+        },
+        {
+            "type": "replication:precious",
+            "value": 6
+        }
+    ]
+}

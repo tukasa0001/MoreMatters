@@ -1,0 +1,12 @@
+{
+    "type": "replication:matter_value",
+    "input": {
+        "item": "mekanism:dust_iron"
+    },
+    "matter": [
+        {
+            "type": "replication:metallic",
+            "value": 9
+        }
+    ]
+}

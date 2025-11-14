@@ -1,0 +1,12 @@
+{
+    "type": "replication:matter_value",
+    "input": {
+        "tag": "forge:dusts/lead"
+    },
+    "matter": [
+        {
+            "type": "replication:metallic",
+            "value": 18
+        }
+    ]
+}

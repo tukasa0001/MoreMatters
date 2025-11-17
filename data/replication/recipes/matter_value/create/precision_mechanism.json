@@ -1,0 +1,24 @@
+{
+    "type": "replication:matter_value",
+    "input": {
+        "item": "create:precision_mechanism"
+    },
+    "matter": [
+        {
+            "type": "replication:metallic",
+            "value": 24
+        },
+        {
+            "type": "replication:precious",
+            "value": 9
+        },
+        {
+            "type": "replication:earth",
+            "value": 40
+        },
+        {
+            "type": "replication:organic",
+            "value": 30
+        }
+    ]
+}

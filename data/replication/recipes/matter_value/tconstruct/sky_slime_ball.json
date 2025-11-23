@@ -1,0 +1,16 @@
+{
+    "type": "replication:matter_value",
+    "input": {
+        "item": "tconstruct:sky_slime_ball"
+    },
+    "matter": [
+        {
+            "type": "replication:earth",
+            "value": 2
+        },
+        {
+            "type": "replication:living",
+            "value": 2
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "type": "replication:matter_value",
+    "input": {
+        "item": "avaritia:neutron_collector"
+    },
+    "matter": [
+        {
+            "type": "replication:metallic",
+            "value": 1701
+        },
+        {
+            "type": "replication:earth",
+            "value": 360
+        },
+        {
+            "type": "replication:nether",
+            "value": 1172
+        },
+        {
+            "type": "replication:precious",
+            "value": 13372
+        },
+        {
+            "type": "replication:quantum",
+            "value": 1344
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "type": "replication:matter_value",
+    "input": {
+        "item": "avaritia:blaze_cube"
+    },
+    "matter": [
+        {
+            "type": "replication:earth",
+            "value": 5.33
+        },
+        {
+            "type": "replication:nether",
+            "value": 35.33
+        },
+        {
+            "type": "replication:organic",
+            "value": 28.33
+        },
+        {
+            "type": "replication:precious",
+            "value": 18.33
+        },
+        {
+            "type": "replication:living",
+            "value": 25.33
+        }
+    ]
+}

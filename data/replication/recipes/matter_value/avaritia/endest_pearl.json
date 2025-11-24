@@ -1,0 +1,28 @@
+{
+    "type": "replication:matter_value",
+    "input": {
+        "item": "avaritia:endest_pearl"
+    },
+    "matter": [
+        {
+            "type": "replication:earth",
+            "value": 12000
+        },
+        {
+            "type": "replication:nether",
+            "value": 16
+        },
+        {
+            "type": "replication:organic",
+            "value": 132
+        },
+        {
+            "type": "replication:ender",
+            "value": 90
+        },
+        {
+            "type": "replication:quantum",
+            "value": 97
+        }
+    ]
+}

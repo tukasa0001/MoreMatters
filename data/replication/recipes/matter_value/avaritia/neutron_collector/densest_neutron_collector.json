@@ -1,0 +1,40 @@
+{
+    "type": "replication:matter_value",
+    "input": {
+        "item": "avaritia:densest_neutron_collector"
+    },
+    "matter": [
+        {
+            "type": "replication:metallic",
+            "value": 1161504
+        },
+        {
+            "type": "replication:earth",
+            "value": 2296852.741
+        },
+        {
+            "type": "replication:nether",
+            "value": 657728
+        },
+        {
+            "type": "replication:organic",
+            "value": 40760
+        },
+        {
+            "type": "replication:ender",
+            "value": 7296
+        },
+        {
+            "type": "replication:precious",
+            "value": 7644552
+        },
+        {
+            "type": "replication:quantum",
+            "value": 719936
+        },
+        {
+            "type": "replication:living",
+            "value": 26144
+        }
+    ]
+}

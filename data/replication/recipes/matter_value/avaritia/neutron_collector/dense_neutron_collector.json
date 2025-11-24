@@ -1,0 +1,36 @@
+{
+    "type": "replication:matter_value",
+    "input": {
+        "item": "avaritia:dense_neutron_collector"
+    },
+    "matter": [
+        {
+            "type": "replication:metallic",
+            "value": 13608
+        },
+        {
+            "type": "replication:earth",
+            "value": 26880
+        },
+        {
+            "type": "replication:nether",
+            "value": 9600
+        },
+        {
+            "type": "replication:organic",
+            "value": 180
+        },
+        {
+            "type": "replication:organic",
+            "value": 114
+        },
+        {
+            "type": "replication:precious",
+            "value": 113312
+        },
+        {
+            "type": "replication:quantum",
+            "value": 11117
+        }
+    ]
+}

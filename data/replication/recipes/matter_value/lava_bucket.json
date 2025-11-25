@@ -1,0 +1,16 @@
+{
+    "type": "replication:matter_value",
+    "input": {
+        "item": "minecraft:lava_bucket"
+    },
+    "matter": [
+        {
+            "type": "replication:metallic",
+            "value": 27
+        },
+        {
+            "type": "replication:nether",
+            "value": 10
+        }
+    ]
+}

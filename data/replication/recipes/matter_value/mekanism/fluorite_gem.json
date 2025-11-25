@@ -1,0 +1,12 @@
+{
+    "type": "replication:matter_value",
+    "input": {
+        "item": "mekanism:fluorite_gem"
+    },
+    "matter": [
+        {
+            "type": "replication:precious",
+            "value": 2
+        }
+    ]
+}

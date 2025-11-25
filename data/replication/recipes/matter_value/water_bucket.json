@@ -1,0 +1,16 @@
+{
+    "type": "replication:matter_value",
+    "input": {
+        "item": "minecraft:water_bucket"
+    },
+    "matter": [
+        {
+            "type": "replication:metallic",
+            "value": 27
+        },
+        {
+            "type": "replication:earth",
+            "value": 10
+        }
+    ]
+}

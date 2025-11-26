@@ -1,0 +1,24 @@
+{
+    "type": "replication:matter_value",
+    "input": {
+        "item": "mekanism:alloy_atomic"
+    },
+    "matter": [
+        {
+            "type": "replication:metallic",
+            "value": 100.8
+        },
+        {
+            "type": "replication:earth",
+            "value": 6.6
+        },
+        {
+            "type": "replication:nether",
+            "value": 2
+        },
+        {
+            "type": "replication:precious",
+            "value": 16.6
+        }
+    ]
+}
